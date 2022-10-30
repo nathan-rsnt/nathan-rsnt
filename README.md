@@ -1,4 +1,4 @@
-### Olá!
+### Olá, Mundo!
 
 - 🔭 Estou atualmente trabalhando em um aplicativo Web de vendas
 - 🌱 Estudando C#, Java e PHP
