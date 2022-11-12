@@ -2,6 +2,7 @@
 
 - 🔭 Estou atualmente trabalhando em um aplicativo Web de vendas
 - 🌱 Estudando C#, Java e PHP
+- 📖 Cursando 2° ano de Ciência da Computação
 - 👯 Quero colaborar em projetos open source
 - 📫 Contate-me: nathan.rsantos@hotmail.com
 
