@@ -1,7 +1,7 @@
 ### Olá, Mundo!
 
-- 🔭 Estou atualmente trabalhando em um aplicativo Web de vendas
-- 🌱 Estudando Laravel e outros frameworks
+- 🔭 Estou atualmente trabalhando em uma aplicação Web de vendas
+- 🌱 Estudando Laravel e outros Frameworks Web
 - 📖 Cursando 3° ano de Ciência da Computação
 - 👯 Quero colaborar em projetos open source
 - 📫 Contate-me: nathan.rsantos@hotmail.com
