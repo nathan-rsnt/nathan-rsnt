@@ -3,12 +3,12 @@
 ## About Me
 I am a Software Engineer with a passion for Cyber Security. I enjoy working on projects that allow me to apply my knowledge in both software development and ethical hacking.
 
-    🔭 I’m currently working on an automated pentesting tool as my final project for my Computer Science degree.
-    🌱 I’m currently learning C++.
+- 🔭 I’m currently working on an automated pentesting tool as my final project for my Computer Science degree.
+- 🌱 I’m currently learning C++.
 
 ## My Projects
 
-### [Inside](https://github.com/nathanrsnt/inside)
+### [Automated Pentesting Tool for Network and Web Vulnerability Detection and Exploitation](https://github.com/nathanrsnt/inside)
 [![Project Screenshot](https://imgur.com/eESkPhZ.png)](https://github.com/nathanrsnt/inside)
 
 An automated pentesting tool that scans networks and websites for vulnerabilities. Upon finding a vulnerability, the application attempts to exploit it and reports back to the user if the exploitation was successful.
