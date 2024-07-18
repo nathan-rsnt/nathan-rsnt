@@ -1,7 +1,5 @@
 # Hello there 👋
 
-[![Profile Banner](https://example.com/banner.png)](https://example.com)
-
 ## About Me
 
 I am a Software Engineer with a passion for Cyber Security. I love working on projects that allow me apply my kwnoledge writting software and hacking.
