@@ -9,9 +9,8 @@ I am a Software Engineer with a passion for Cyber Security. I enjoy working on p
 ## My Projects
 
 ### [Automated Pentesting Tool for Network and Web Vulnerability Detection and Exploitation](https://github.com/nathanrsnt/inside)
-[![Project Screenshot](https://imgur.com/eESkPhZ.png)](https://github.com/nathanrsnt/inside)
 
-An automated pentesting tool that scans networks and websites for vulnerabilities. Upon finding a vulnerability, the application attempts to exploit it and reports back to the user if the exploitation was successful.
+- An automated pentesting tool that scans networks and websites for vulnerabilities. Upon finding a vulnerability, the application attempts to exploit it and reports back to the user if the exploitation was successful.
 
 ## Languages, Frameworks and Tools
 ### Languages and Frameworks
