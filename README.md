@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Software Engineer with a passion for Cyber Security. I love working on projects that allow me apply my kwnoledge writting software and hacking.
+I am a Software Engineer with a passion for Cyber Security. I love working on projects that allow me apply my knowledge writting software and hacking.
 
 - 🔭 I’m currently working on a pentesting automation tool as a last project for my Computer Science degree.
 - 🌱 I’m currently learning C++.
