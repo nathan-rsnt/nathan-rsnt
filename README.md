@@ -1,10 +1,9 @@
-## My Recent Projects
+## Meus projetos recentes
 
-### [Automated Pentesting Tool for Network and Web Vulnerability Detection and Exploitation](https://github.com/nathanrodriguesst/inside)
+### [Ferramenta Para Automação de Detecção e Exploração de Vulnerabilidades Escrita em C++](https://github.com/nathanrodriguesst/inside)
+- Uma ferramenta de pentesting que pode realizar scans na rede alvo, econtrar serviços vulneraveis e explorar essas vulnerabilidades para ganhar acesso remoto ao servidor, gerando relatórios para o usuário sobre o sucesso do ataque.
 
-- An automated pentesting tool that scans networks and websites for vulnerabilities. Upon finding a vulnerability, the application attempts to exploit it and reports back to the user if the exploitation was successful.
-
-## Languages and Frameworks
+## Linguagens e Frameworks
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
