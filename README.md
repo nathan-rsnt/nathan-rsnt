@@ -5,7 +5,7 @@
 - An automated pentesting tool that scans networks and websites for vulnerabilities. Upon finding a vulnerability, the application attempts to exploit it and reports back to the user if the exploitation was successful.
 
 ## Languages and Frameworks
-### Languages and Frameworks
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
